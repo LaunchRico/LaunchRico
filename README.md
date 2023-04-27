@@ -1,4 +1,6 @@
-### Hi there 👋
+# Que onda 🤙
+
+[futurama-bender.gif]
 
 <!--
 **LaunchRico/LaunchRico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
